@@ -21,4 +21,22 @@ public class Ravenclaw extends Hogwarts {
                 ",\t остроумие=" + witness +
                 ",\t творчество=" + creativity;
     }
+
+
+    public int getCleverness() {
+        return cleverness;
+    }
+
+    public int getWisdom() {
+        return wisdom;
+    }
+
+    public int getWitness() {
+        return witness;
+    }
+
+    public int getCreativity() {
+        return creativity;
+    }
+
 }

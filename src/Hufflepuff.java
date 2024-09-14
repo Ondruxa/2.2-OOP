@@ -17,4 +17,17 @@ public class Hufflepuff extends Hogwarts {
                 ",\t верность=" + loyalty +
                 ",\t честность=" + honesty;
     }
+ homework1
+
+    public int getDiligence() {
+        return diligence;
+    }
+
+    public int getLoyalty() {
+        return loyalty;
+    }
+
+    public int getHonesty() {
+        return honesty;
+    }
 }

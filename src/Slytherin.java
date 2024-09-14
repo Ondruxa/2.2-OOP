@@ -23,4 +23,26 @@ public class Slytherin extends Hogwarts{
                 ",\t находчивость =" + ingenuity +
                 ",\t жажда власти=" + lustForPower;
     }
+ homework1
+
+    public int getCunning() {
+        return cunning;
+    }
+
+    public int getDecisiveness() {
+        return decisiveness;
+    }
+
+    public int getAmbition() {
+        return ambition;
+    }
+
+    public int getIngenuity() {
+        return ingenuity;
+    }
+
+    public int getLustForPower() {
+        return lustForPower;
+    }
+
 }
