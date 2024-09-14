@@ -18,6 +18,7 @@ public class Hogwarts {
                 ",\t колдовская мощь=" + magicPower +
                 ",\t расстояние трансгрессии=" + transgressionDistance;
     }
+ homework1
 
     public int getMagicPower() {
         return magicPower;
@@ -34,5 +35,6 @@ public class Hogwarts {
     public String getName() {
         return name;
     }
+
 }
 

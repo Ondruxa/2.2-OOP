@@ -1,4 +1,6 @@
+ homework1
 public class Griffindor extends Hogwarts {
+
     private int nobility;
     private int honor;
     private int courage;
@@ -12,11 +14,14 @@ public class Griffindor extends Hogwarts {
 
     @Override
     public String toString() {
+ homework1
         return super.toString() +
+
                 ",\t благородство=" + nobility +
                 ",\t честь=" + honor +
                 ",\t храбрость=" + courage;
     }
+homework1
 
 
     public int getNobility() {
@@ -30,5 +35,6 @@ public class Griffindor extends Hogwarts {
     public int getCourage() {
         return courage;
     }
+
 
 }

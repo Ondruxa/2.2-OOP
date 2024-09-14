@@ -22,6 +22,7 @@ public class Ravenclaw extends Hogwarts {
                 ",\t творчество=" + creativity;
     }
 
+
     public int getCleverness() {
         return cleverness;
     }
@@ -37,4 +38,5 @@ public class Ravenclaw extends Hogwarts {
     public int getCreativity() {
         return creativity;
     }
+
 }
