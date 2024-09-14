@@ -1,4 +1,4 @@
-public class Main {
+public class Main { //изменённый
     public static void main(String[] args) {
         Griffindor[] griffindorStudent = new Griffindor[3];
         griffindorStudent[0] = new Griffindor("Гриффиндор", "Гарри Поттер", 100, 97, 99, 87, 81);
